@@ -1,0 +1,64 @@
+@import url('https://fonts.cdnfonts.com/css/samarkan');
+#ramDesc{
+    display: inline-block;
+    overflow: auto;
+    width: 900px;
+    height: 275px;
+    text-align: justify;
+    background-image: url(./Images/background.jpg);
+    padding:10px;
+    margin:0 auto;
+    color:black;
+    border-radius: 28px;
+}
+#sitaDesc{
+    display: inline-block;
+    overflow: auto;
+    width: 900px;
+    height: 275px;
+    text-align: justify;
+    padding:10px;
+    background-image: url(./Images/background.jpg);
+    margin:0 auto;
+    border-radius: 28px;
+}
+#lakshmanDesc, #hanumanDesc,#ravanaDesc,#dasarathaDesc,#kaikeyiDesc{
+    display: inline-block;
+    overflow: auto;
+    width: 900px;
+    height: 275px;
+    text-align: justify;
+    padding:10px;
+    margin:0 auto;
+    border-radius: 28px;
+    background-image: url(./Images/background.jpg);
+}
+.image{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+    box-shadow: 15px 15px 15px black;
+    margin: 0 15px;
+}
+#body{
+    background-color: rgb(252, 252, 126);
+    text-align: center;
+    margin:0;
+    border-style: solid;
+    border-width:20px;
+    border-color: olive;
+}
+a{
+    color: rgb(155, 45, 5);
+    font-size: 1.22rem;
+}
+h2{
+    margin-bottom: 0;
+    font-size: 2rem;
+    font-family: 'Samarkan', sans-serif;
+}
+h1{
+    color:rgb(48, 48, 2);
+    font-size: 3.2rem;
+    font-family: 'Samarkan', sans-serif;
+}
